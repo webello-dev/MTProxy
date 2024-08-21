@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MTPorxy</string>
+    <string name="proxy">Proxy</string>
+    <string name="vpn">V2rey</string>
+    <string name="home">Home</string>
+    <string name="Settings">Settings</string>
+    <string name="FeedBack">FeedBack</string>
+    <string name="Share">Share the app</string>
+    <string name="About">About Us</string>
+    <string name="Exit">Exit</string>
+    <string name="refresh_button"> </string>
+    <string name="splash_tozih">Fresh MTProto proxys every 30 minutes
+V2ray configs every 30 minutes
+</string>
+    <string name="Security_tozih">These technologies ensure that your data remains protected and your connections stay secure, minimizing the risk of unauthorized access</string>
+    <string name="Security">Security server</string>
+    <string name="DESCRIPTION">DESCRIPTION</string>
+    <string name="DESCRIPTION_tozih">To activate your desired panel, simply purchase a code through our Telegram bot @amirzzzbot. Once you have the code, enter it in the app, and your panel will be instantly activated, giving you access to all the features and services.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

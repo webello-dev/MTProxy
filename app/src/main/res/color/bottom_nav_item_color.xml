@@ -1,0 +1,4 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/pre" android:state_checked="true"/> <!-- رنگ آیتم فعال -->
+    <item android:color="@android:color/black" android:state_checked="false"/> <!-- رنگ آیتم غیر فعال -->
+</selector>

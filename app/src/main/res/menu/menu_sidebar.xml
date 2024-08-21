@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home" android:title="@string/home" android:icon="@drawable/lucidehome"/>
+    <item android:id="@+id/settings" android:title="@string/Settings" android:icon="@drawable/solarsettingslinear"/>
+    <item android:id="@+id/feedBack" android:title="@string/FeedBack" android:icon="@drawable/fluentpersonfeedbackregular"/>
+    <item android:id="@+id/Share" android:title="@string/Share" android:icon="@drawable/heroiconsoutlineshare"/>
+    <item android:id="@+id/about" android:title="@string/About" android:icon="@drawable/mdiaboutcircleoutline"/>
+    <item android:id="@+id/exit" android:title="@string/Exit" android:icon="@drawable/solarexitlinear"/>
+</menu>
